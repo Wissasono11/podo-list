@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>for ur productivity</title>
+
+    <!-- styles -->
+    <link rel="stylesheet" href="/style/sidebar.css" />
+    <link rel="stylesheet" href="/style/main.css" />
+    <link rel="stylesheet" href="/style/todolist.css" />
+    <link rel="stylesheet" href="/style/podomoro.css" />
+    <link rel="stylesheet" href="/style/responsive.css" />
+
+    <!-- font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <!-- header -->
+    <header class="main-header">
+      <nav class="header-nav">
+        <div class="header-brand">
+          <h1>.ur<span>Plann</span></h1>
+        </div>
+
+        <div class="header-quote">
+          <p id="quote-text"></p>
+          <span id="quote-author" class="quote-author"></span>
+        </div>
+
+        <div class="contact-icon">
+          <div class="contact-text">
+            <h5>Have Problem?</h5>
+            <p>Contact Us</p>
+          </div>
+          <a
+            href="https://wa.me/+6285252171114"
+            target="_blank"
+            class="contact-link"
+          >
+            <img
+              src="images/contact-us.png"
+              alt="WhatsApp"
+              class="contact-icon"
+            />
+          </a>
+        </div>
+
+        <div class="header-controls">
+          <button id="hamburger" aria-label="Open Menu" class="menu-toggle">
+            ☰
+          </button>
+        </div>
+      </nav>
+
+      <!-- overlay -->
+      <div id="overlay" class="nav-overlay">
+        <aside id="sidebar" class="spotify-sidebar">
+          <div class="sidebar-header">
+            <h2>Spotify Playlist</h2>
+            <button class="close-btn" aria-label="Close Menu">&times;</button>
+          </div>
+
+          <!-- spotify auth -->
+          <div id="spotify-auth-status">
+            <button id="spotify-login-btn" onclick="handleSpotifyAuth()">
+              Login
+            </button>
+            <button
+              id="spotify-logout-btn"
+              onclick="handleSpotifyLogout()"
+              style="display: none"
+            >
+              Logout
+            </button>
+          </div>
+
+          <div class="sidebar-content">
+            <iframe
+              id="spotify-iframe"
+              src="https://open.spotify.com/embed/playlist/3Xqf2S6wB9n1pBUM3OcSJc?utm_source=generator"
+              frameborder="0"
+              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              loading="lazy"
+              title="Spotify Playlist Player"
+            ></iframe>
+          </div>
+        </aside>
+      </div>
+    </header>
+
+    <main>
+      <!-- todolist section -->
+      <section id="todo-list">
+        <div class="todo-card">
+          <h2>To-Do List <img src="images/check.png" alt="todo" /></h2>
+          <div class="task-input">
+            <input
+              type="text"
+              id="inputBox"
+              class="input"
+              placeholder="What do you want to do?"
+            />
+            <button onclick="addTask()">Add</button>
+          </div>
+          <ul id="list-container">
+            <!-- 
+            only for debugging:
+            <li class="checked">Task 1</li>
+            <li class="checked">Task 2</li>
+            <li class="checked">Task 3</li> 
+            -->
+          </ul>
+        </div>
+      </section>
+
+      <!-- podomoro section -->
+      <section id="podomoro-timer">
+        <div class="podomoro-card">
+          <div class="podomoro-header">
+            <h1>
+              Pomodoro Timer <img src="images/hourglass.png" alt="podomoro" />
+            </h1>
+            <div class="custom-timer-input">
+              <input
+                type="number"
+                id="customMinutes"
+                min="1"
+                max="60"
+                placeholder="Mnt (1-60)"
+              />
+            </div>
+          </div>
+
+          <div class="podomoro-header-buttons">
+            <button
+              id="buttonTypePomodoro"
+              class="active"
+              onclick="setPomodoroType(TIMER_TYPE_POMODORO);"
+            >
+              Podomoro
+            </button>
+
+            <button
+              id="buttonTypeShortBreak"
+              onclick="setPomodoroType(TIMER_TYPE_SHORT_BREAK);"
+            >
+              Short Break
+            </button>
+            <button onclick="setCustomTimer()">Set Timer</button>
+          </div>
+
+          <div class="podomoro-body">
+            <div id="circularProgressBar" class="progress-bar">
+              <div class="progress-bar-inner">
+                <h2 class="progress-value">25:00</h2>
+              </div>
+            </div>
+          </div>
+
+          <div class="podomoro-footer">
+            <button class="btn-sucess" onclick="startTimer();">Start</button>
+            <button class="btn-danger" onclick="stopTimer();">Stop</button>
+            <button onclick="resetTimer();">Reset</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- footer -->
+    <footer>
+      <p>&copy 2024 Bayu Wicaksono | AsepVanDjikstra. All rights Reversed.</p>
+    </footer>
+
+    <script src="script/sidebar.js"></script>
+    <script src="script/todolist.js"></script>
+    <script src="script/podomoro.js"></script>
+    <script src="script/quote.js"></script>
+    <script src="script/api.js"></script>
+    <script src="script/spotify-ui.js"></script>
+  </body>
+</html>
