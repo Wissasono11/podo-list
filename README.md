@@ -49,8 +49,6 @@
   ![image](https://github.com/user-attachments/assets/fc50c24c-7e69-45bb-8937-1841af192a21)
 
 
-
-
 ### Pomodoro Timer View
 - Timer circular progress
 - Work/Break mode buttons
@@ -69,10 +67,12 @@
   ![image](https://github.com/user-attachments/assets/36d51ca9-f954-4d5d-b124-63b18d2c592c)
 
 ### Spotify Integration
-![Spotify Player](assets/screenshots/spotify-view.png)
 - Embedded player
 - Playlist access
 - Playback controls
+
+![image](https://github.com/user-attachments/assets/16c800e3-e025-48a9-9e90-511fc5ec97fb)
+
 
 ## 📥 Instalasi
 1. Clone Repository
