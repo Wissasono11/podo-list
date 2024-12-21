@@ -23,7 +23,7 @@
   - Kontrol musik sambil bekerja
 - **😋Fitur Pemanis**
   - Icon Contact Us
-  - Quotes yang Statis
+  - Quotes Statis
 
 ## 🛠️ Alat Tempur
 - HTML5
