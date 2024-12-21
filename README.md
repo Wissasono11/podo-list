@@ -21,6 +21,9 @@
   - Akses playlist
   - Pemutar musik terintegrasi
   - Kontrol musik sambil bekerja
+- **😋Fitur Pemanis**
+  - Icon Contact Us
+  - Quotes yang Statis
 
 ## 🛠️ Alat Tempur
 - HTML5
