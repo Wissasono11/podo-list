@@ -32,6 +32,9 @@
 - Spotify Web API
   
 ## 📸 Screenshot & Preview
+### Fullview Web
+- Device laptop:
+- 
 
 ### Pomodoro Timer View
 ![Pomodoro Timer](assets/screenshots/pomodoro-view.png)
