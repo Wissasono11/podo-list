@@ -36,12 +36,18 @@
 ![image](https://github.com/user-attachments/assets/930fbffd-a80e-4e89-bdc0-cef319ae489c)
 ![image](https://github.com/user-attachments/assets/bcd7459c-7eaf-4e66-b61b-18f98c48f671)
 
-
-- Laptop Device✅:
+### Other Device:
+- Laptop Device✅
   ![image](https://github.com/user-attachments/assets/fc50c24c-7e69-45bb-8937-1841af192a21)
+  ![image](https://github.com/user-attachments/assets/a3b44d38-a81e-421b-80c8-a97a998dbf96)
 
-- Tablet Device✅:
-- Mobile Device✅:
+- Tablet Device✅
+  ![image](https://github.com/user-attachments/assets/5400462b-2500-4fbe-bf00-d504ee9f64e2)
+  ![image](https://github.com/user-attachments/assets/fb244c87-84e8-4e97-8936-37d8b777af7b)
+
+- Mobile Device✅
+  ![image](https://github.com/user-attachments/assets/6d1a515f-59c4-46f2-beef-5dd439eb521d)
+  ![image](https://github.com/user-attachments/assets/8274ab3e-efde-4353-8c48-1660805f7216)
 
 ### Pomodoro Timer View
 ![Pomodoro Timer](assets/screenshots/pomodoro-view.png)
