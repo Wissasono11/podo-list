@@ -23,7 +23,7 @@ PodoList adalah aplikasi web yang menggabungkan Pomodoro Timer dengan Todo List 
   - Pemutar musik terintegrasi
   - Kontrol musik sambil bekerja
 
-## 🛠️ Teknologi
+## 🛠️ Alat Tempur
 - HTML5
 - CSS3 (Flexbox & Grid)
 - Vanilla JavaScript
