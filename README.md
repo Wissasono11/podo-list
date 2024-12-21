@@ -52,7 +52,11 @@ git clone https://github.com/yourusername/podo-list.git
 │   └── todolist.js
 └── assets/
 ```
-3. ## 📸 Screenshot & Preview
+3. Setup Spotify API:
+   - Kunjungi Spotify Developer Dashboard
+   - Login dengan akun Spotify Anda
+```
+## 📸 Screenshot & Preview
 
 ### Pomodoro Timer View
 ![Pomodoro Timer](assets/screenshots/pomodoro-view.png)
