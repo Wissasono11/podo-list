@@ -66,10 +66,7 @@
 
 - Edit/Delete controls
 
-  ![image](https://github.com/user-attachments/assets/ac5e078b-91e8-4a11-a13c-b29d9ae1188d)
-
-
-
+  ![image](https://github.com/user-attachments/assets/36d51ca9-f954-4d5d-b124-63b18d2c592c)
 
 ### Spotify Integration
 ![Spotify Player](assets/screenshots/spotify-view.png)
