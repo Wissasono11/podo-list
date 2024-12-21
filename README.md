@@ -86,7 +86,13 @@ git clone https://github.com/yourusername/podo-list.git
      ![Screenshot 2024-12-21 150344](https://github.com/user-attachments/assets/30d31860-0fde-4af0-8842-4121fc484772)
    - Setelah memasukkan Client ID dan Secret anda dapat menuju, index.html dan mengganti struktur <iframe></iframe> dengan milik
      anda sendiri:
-     ![Screenshot 2024-12-21 200802](https://github.com/user-attachments/assets/cedb9c83-df0c-4c75-9baf-cbec46733e5b)
-   -
+     ![Screenshot 2024-12-21 200802](https://github.com/user-attachments/assets/f8abd7f6-1287-4bb2-a3b2-29b58ee99e8e)
+   - Untuk mendapatkan baris kode tersebut anda dapat membuka playlist musik Spotify anda:
+     - Playlist musik
+     - Share
+     - Embedded playlist
+     - Centang Show Code
+     ![image](https://github.com/user-attachments/assets/afb38dc2-9737-4276-9677-7a4ba86bc3b8)
+
 
       
