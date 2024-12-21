@@ -68,11 +68,15 @@
   border-radius: 20px;
   font-weight: 500;
   font-size: 0.9rem;
-  background-color: var(--oren-belanda);
+  background-color: var(--purple-secondary);
   color: var(--white);
   border: none;
   cursor: pointer;
   transition: transform 0.2s ease-in-out, background-color 0.3s;
+}
+
+button#buttonTypeShortBreak {
+  background-color: var(--oren-belanda);
 }
 
 .podomoro-header-buttons button:hover {
