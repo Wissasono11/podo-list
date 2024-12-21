@@ -55,7 +55,7 @@ git clone https://github.com/yourusername/podo-list.git
 3. Setup Spotify API:
    - Kunjungi Spotify Developer Dashboard
    - Login dengan akun Spotify Anda
-```
+
 ## 📸 Screenshot & Preview
 
 ### Pomodoro Timer View
