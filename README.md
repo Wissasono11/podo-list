@@ -52,7 +52,8 @@
 
 
 ### Pomodoro Timer View
-![Pomodoro Timer](assets/screenshots/pomodoro-view.png)
+![image](https://github.com/user-attachments/assets/67a4f0f6-0ab7-4a90-b84f-e941afabaf33)
+
 - Timer circular progress
 - Work/Break mode buttons
 - Custom time settings
