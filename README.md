@@ -55,18 +55,19 @@
 - Timer circular progress
 - Work/Break mode buttons
 - Custom time settings
-  
-![image](https://github.com/user-attachments/assets/67a4f0f6-0ab7-4a90-b84f-e941afabaf33)
+
+  ![image](https://github.com/user-attachments/assets/67a4f0f6-0ab7-4a90-b84f-e941afabaf33)
 
 ### Todo List Interface
 - Task management interface
 - Checkbox completion
-  
-![image](https://github.com/user-attachments/assets/cf4d8528-0925-42dd-8d69-a925ffafe59f)
+
+  ![image](https://github.com/user-attachments/assets/cf4d8528-0925-42dd-8d69-a925ffafe59f)
 
 - Edit/Delete controls
 
-![image](https://github.com/user-attachments/assets/2b39f9ee-ca3c-4ead-9b9c-fd4d03a2bde0)
+  ![image](https://github.com/user-attachments/assets/daa5cbdf-c098-418b-ab44-e74a25586e81)
+
 
 
 ### Spotify Integration
