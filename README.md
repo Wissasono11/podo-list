@@ -38,7 +38,8 @@
 
 
 - Laptop Device✅:
-  
+  ![image](https://github.com/user-attachments/assets/fc50c24c-7e69-45bb-8937-1841af192a21)
+
 - Tablet Device✅:
 - Mobile Device✅:
 
