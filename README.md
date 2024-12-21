@@ -1,4 +1,4 @@
-![Screenshot 2024-12-21 200802](https://github.com/user-attachments/assets/09a7744c-f506-41cd-9b50-8de4c82a64ca)# .urPlann - Podo-list Web 
+# .urPlann - Podo-list Web 
 
 ## 📝 Overview
 .urPlann adalah aplikasi web yang menggabungkan Pomodoro Timer dengan Todo List untuk meningkatkan produktivitas. Dilengkapi dengan integrasi Spotify untuk menciptakan suasana kerja yang nyaman.
