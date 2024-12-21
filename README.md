@@ -37,13 +37,16 @@
 
 ### Other Device:
 - Mobile Device✅
-- ![image](https://github.com/user-attachments/assets/6d1a515f-59c4-46f2-beef-5dd439eb521d)
+
+  ![image](https://github.com/user-attachments/assets/6d1a515f-59c4-46f2-beef-5dd439eb521d)
   
 - Tablet Device✅
-- ![image](https://github.com/user-attachments/assets/5400462b-2500-4fbe-bf00-d504ee9f64e2)
+
+  ![image](https://github.com/user-attachments/assets/5400462b-2500-4fbe-bf00-d504ee9f64e2)
   
 - Laptop Device✅
-- ![image](https://github.com/user-attachments/assets/fc50c24c-7e69-45bb-8937-1841af192a21)
+
+  ![image](https://github.com/user-attachments/assets/fc50c24c-7e69-45bb-8937-1841af192a21)
 
 
 
