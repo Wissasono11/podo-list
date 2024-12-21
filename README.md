@@ -78,10 +78,10 @@ git clone https://github.com/yourusername/podo-list.git
 3. Setup Spotify API:
    - Kunjungi Spotify Developer Dashboard
    - Login dengan akun Spotify Anda
-     ![image](https://github.com/user-attachments/assets/95afcc6b-af59-4592-8624-d5321595f703)
    - Buka menu Create App:
-     ![image](https://github.com/user-attachments/assets/0c5ec8f1-f74d-4f8a-8fed-a0ad3c6f57ca)
+     ![image](https://github.com/user-attachments/assets/95afcc6b-af59-4592-8624-d5321595f703)
    - Isi form app name, app desc, website, dll (example: (localhost/example.php), dan isi redirect URL yang sama juga).
+     ![image](https://github.com/user-attachments/assets/0c5ec8f1-f74d-4f8a-8fed-a0ad3c6f57ca)
    - Simpan dan buka app yang sudah dibuat sebelumnya, kemudian pergi ke Settings dan copy Client ID dan Client Secret:
      ![Screenshot 2024-12-21 145953](https://github.com/user-attachments/assets/65e47552-f919-4c52-8d9c-fcb1ccdd5746)
    - Masuk ke dalam file api.js dan ganti Client ID dan Client Secret dengan milik anda
