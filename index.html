@@ -129,11 +129,13 @@
             </h1>
             <div class="custom-timer-input">
               <input
-                type="number"
+                type="text"
+                inputmode="numeric"
+                oninput="this.value = this.value.replace(/[^0-9]/g, '');"
                 id="customMinutes"
                 min="1"
                 max="60"
-                placeholder="Mnt (1-60)"
+                placeholder="Minutes (1-60)"
               />
             </div>
           </div>
