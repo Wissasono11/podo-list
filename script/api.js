@@ -2,10 +2,10 @@ class SpotifyManager {
   constructor() {
     this.config = {
       // Update with your exact Client ID (remove extra spaces)
-      clientId: "8289af8c8c69478cb5a6c09fb490e904",
-      clientSecret: "519b48d328e9465aa50f249387fe749c",
+      clientId: "",
+      clientSecret: "",
       // Match exact redirect URI from Spotify Dashboard
-      redirectUri: "http://127.0.0.1:5500/index.html",
+      redirectUri: "",
     };
     this.accessToken = localStorage.getItem("spotify_access_token");
     this.scope =
