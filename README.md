@@ -1,40 +1,35 @@
-# PodoList - Productivity Web App
+# PodoList - Productivity Web App with Spotify Integration
 
-A minimalist web application combining a Pomodoro Timer and Todo List to boost your productivity. Features Spotify integration for the perfect work ambiance.
+## 📝 Overview
+PodoList adalah aplikasi web yang menggabungkan Pomodoro Timer dengan Todo List untuk meningkatkan produktivitas. Dilengkapi dengan integrasi Spotify untuk menciptakan suasana kerja yang nyaman.
 
-![PodoList Preview](images/preview.png)
+## ⭐ Fitur Utama
+- **Pomodoro Timer**
+  - Sesi kerja 25 menit
+  - Istirahat pendek 5 menit
+  - Timer kustom (1-60 menit)
+  - Animasi progress circular
+  - Notifikasi audio
+  
+- **Todo List**
+  - Tambah, edit, hapus tugas
+  - Tandai tugas selesai
+  - Penyimpanan lokal (localStorage)
+  - Animasi smooth
+  
+- **Integrasi Spotify**
+  - Koneksi dengan akun Spotify
+  - Akses playlist
+  - Pemutar musik terintegrasi
+  - Kontrol musik sambil bekerja
 
-## Features
-
-### 1. Pomodoro Timer
-- 25-minute work sessions
-- 5-minute break intervals
-- Custom timer option (1-60 minutes)
-- Visual progress with circular animation
-- Audio notifications for session completion
-
-### 2. Todo List
-- Add, edit, and delete tasks
-- Mark tasks as complete
-- Persistent storage using localStorage
-- Smooth animations for task interactions
-- Double-click to edit tasks
-
-### 3. Spotify Integration
-- Connect with your Spotify account
-- Access your playlists
-- Embed player in sidebar
-- Control playback while working
-
-## Tech Stack
-
+## 🛠️ Teknologi
 - HTML5
-- CSS3 (with Flexbox & Grid)
+- CSS3 (Flexbox & Grid)
 - Vanilla JavaScript
 - Spotify Web API
 
-## Getting Started
-
-1. Clone the repository:
-```sh
+## 📥 Instalasi
+1. Clone repository
+```bash
 git clone https://github.com/yourusername/podo-list.git
