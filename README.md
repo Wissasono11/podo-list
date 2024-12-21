@@ -66,7 +66,8 @@
 
 - Edit/Delete controls
 
-  ![image](https://github.com/user-attachments/assets/daa5cbdf-c098-418b-ab44-e74a25586e81)
+  ![image](https://github.com/user-attachments/assets/ac5e078b-91e8-4a11-a13c-b29d9ae1188d)
+
 
 
 
