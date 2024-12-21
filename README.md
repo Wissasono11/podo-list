@@ -82,4 +82,6 @@ git clone https://github.com/yourusername/podo-list.git
    - Simpan dan buka app yang sudah dibuat sebelumnya, kemudian pergi ke Settings:
      ![Screenshot 2024-12-21 145953](https://github.com/user-attachments/assets/65e47552-f919-4c52-8d9c-fcb1ccdd5746)
    - Copy Client ID dan Client Secret anda ke dalam api.js:
+     ![Screenshot 2024-12-21 150344](https://github.com/user-attachments/assets/30d31860-0fde-4af0-8842-4121fc484772)
+
       
