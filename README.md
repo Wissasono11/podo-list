@@ -9,8 +9,7 @@ PodoList adalah aplikasi web yang menggabungkan Pomodoro Timer dengan Todo List 
   - Istirahat pendek 5 menit
   - Timer kustom (1-60 menit)
   - Animasi progress circular
-  - Notifikasi audio
-  
+
 - **Todo List**
   - Tambah, edit, hapus tugas
   - Tandai tugas selesai
