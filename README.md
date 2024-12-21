@@ -127,7 +127,7 @@ git clone https://github.com/yourusername/podo-list.git
 ## Copyright Notice
 Copyright © 2024 PodoList All rights reserved.<br>
 Developed by:
-Bayu Wicaksono aka AsepVanDjikstra (@Wissasono11)
+Bayu Wicaksono | AsepVanDjikstra (@Wissasono11)
 
 ## MIT License
 MIT License
