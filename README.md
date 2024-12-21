@@ -70,7 +70,7 @@
 - Playback controls
 
 ## 📥 Instalasi
-1. Clone repository
+1. Clone Repository
 ```bash
 git clone https://github.com/yourusername/podo-list.git
 ```
