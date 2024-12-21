@@ -1,3 +1,87 @@
+@media screen and (max-width: 1280px) {
+  /* Header  */
+  .header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .main-header {
+    width: 100%;
+  }
+
+  .header-brand h1 {
+    font-size: 1rem;
+  }
+
+  .contact-icon {
+    margin: auto;
+  }
+
+  /* Main content */
+  main {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin-top: 80px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  section {
+    width: 80%;
+    max-width: 800px;
+    margin: 10px 0;
+  }
+
+  /* Todo list adjustments */
+  .todo-card {
+    width: 100%;
+    max-width: 466px;
+  }
+
+  .todo-card h2 {
+    font-size: 1.3rem;
+  }
+
+  .task-input {
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .task-input input {
+    font-size: 0.9rem;
+  }
+
+  /* Pomodoro adjustments */
+  .podomoro-card {
+    width: 100%;
+  }
+
+  .podomoro-header h1 {
+    font-size: 1.3rem;
+  }
+
+  .podomoro-header-buttons {
+    gap: 15px;
+  }
+
+  .podomoro-header-buttons button,
+  .podomoro-footer button,
+  .custom-timer-input button,
+  input#customMinutes {
+    padding: 10px 20px;
+    font-size: 0.9rem;
+  }
+
+  /* Footer */
+  footer {
+    margin-top: 20px;
+    padding: 15px 0;
+  }
+}
+
 @media screen and (max-width: 1024px) {
   /* Header  */
   .header-nav {
