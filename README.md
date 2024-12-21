@@ -72,8 +72,7 @@
 - Playback controls
 
 ![image](https://github.com/user-attachments/assets/16c800e3-e025-48a9-9e90-511fc5ec97fb)
-
-
+<br>
 ## 📥 Instalasi
 1. Clone Repository
 ```bash
@@ -121,11 +120,11 @@ git clone https://github.com/yourusername/podo-list.git
      - Centang Show Code
      ![image](https://github.com/user-attachments/assets/afb38dc2-9737-4276-9677-7a4ba86bc3b8)
    - 🎉Selamat anda sudah bisa meintegrasikan website ini dengan playlist Spotify Anda!.
-
+<br>
 # 📜 Copyright & License
 
 ## Copyright Notice
-Copyright © 2024 PodoList All rights reserved.
+Copyright © 2024 PodoList All rights reserved.<br>
 Developed by:
 Bayu Wicaksono aka AsepVanDjikstra (@Wissasono11)
 
