@@ -27,6 +27,26 @@
 - CSS3 (Flexbox & Grid)
 - Vanilla JavaScript
 - Spotify Web API
+  
+## 📸 Screenshot & Preview
+
+### Pomodoro Timer View
+![Pomodoro Timer](assets/screenshots/pomodoro-view.png)
+- Timer circular progress
+- Work/Break mode buttons
+- Custom time settings
+
+### Todo List Interface
+![Todo List](assets/screenshots/todo-view.png)
+- Task management interface
+- Checkbox completion
+- Edit/Delete controls
+
+### Spotify Integration
+![Spotify Player](assets/screenshots/spotify-view.png)
+- Embedded player
+- Playlist access
+- Playback controls
 
 ## 📥 Instalasi
 1. Clone repository
@@ -63,24 +83,3 @@ git clone https://github.com/yourusername/podo-list.git
      ![Screenshot 2024-12-21 145953](https://github.com/user-attachments/assets/65e47552-f919-4c52-8d9c-fcb1ccdd5746)
    - Copy Client ID dan Client Secret anda ke dalam api.js:
       
-
-## 📸 Screenshot & Preview
-
-### Pomodoro Timer View
-![Pomodoro Timer](assets/screenshots/pomodoro-view.png)
-- Timer circular progress
-- Work/Break mode buttons
-- Custom time settings
-
-### Todo List Interface
-![Todo List](assets/screenshots/todo-view.png)
-- Task management interface
-- Checkbox completion
-- Edit/Delete controls
-
-### Spotify Integration
-![Spotify Player](assets/screenshots/spotify-view.png)
-- Embedded player
-- Playlist access
-- Playback controls
-
