@@ -90,7 +90,7 @@ git clone https://github.com/yourusername/podo-list.git
    - Untuk mendapatkan baris kode tersebut anda dapat membuka playlist musik Spotify anda:
      - Playlist musik
      - Share
-     - Embedded playlist
+     - Embed Playlist
      - Centang Show Code
      ![image](https://github.com/user-attachments/assets/afb38dc2-9737-4276-9677-7a4ba86bc3b8)
 
