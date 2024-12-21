@@ -79,6 +79,10 @@ button#buttonTypeShortBreak {
   background-color: var(--oren-belanda);
 }
 
+button#buttonTypeShortBreak:hover {
+  background-color: var(--blue);
+}
+
 .podomoro-header-buttons button:hover {
   transform: scale(1.05);
   background-color: var(--blue);

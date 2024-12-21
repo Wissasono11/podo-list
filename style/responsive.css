@@ -11,11 +11,11 @@
   }
 
   .header-brand h1 {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 
   .contact-icon {
-    margin: auto;
+    margin-right: 20px;
   }
 
   /* Main content */
@@ -24,9 +24,7 @@
     align-items: center;
     padding: 20px;
     margin-top: 80px;
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
+    width: 96%;
   }
 
   section {
@@ -38,7 +36,7 @@
   /* Todo list adjustments */
   .todo-card {
     width: 100%;
-    max-width: 466px;
+    max-width: 505px;
   }
 
   .todo-card h2 {
@@ -99,8 +97,8 @@
   }
 
   .contact-icon {
-    margin: auto;
-    padding-right: 150px;
+    /* margin: auto; */
+    /* padding-right: 150px; */
   }
 
   /* Main content */
@@ -109,9 +107,9 @@
     align-items: center;
     padding: 20px;
     margin-top: 80px;
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
+    width: 95%;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
   }
 
   section {
@@ -123,8 +121,7 @@
   /* Todo list adjustments */
   .todo-card {
     width: 100%;
-    max-width: 675px;
-    margin-bottom: 20px;
+    max-width: 560px;
   }
 
   .todo-card h2 {
@@ -186,7 +183,7 @@
   }
 
   .header-brand h1 {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 
   .header-quote {
@@ -203,14 +200,13 @@
   }
 
   .contact-icon {
-    margin-left: 50px;
-    padding-right: 30px;
+    padding-right: 0px;
   }
 
   .contact-link {
     display: flex;
     align-items: center;
-    margin-right: 20px;
+    margin-right: 8px;
   }
 
   .contact-link img {
@@ -230,20 +226,20 @@
   /* Main content */
   main {
     flex-direction: column;
-    padding: 10px;
+    padding: 25px;
     margin-top: 70px;
-    width: 85%;
+    width: 95%;
   }
 
   section {
-    width: 100%;
+    /* width: 100%; */
     margin: 30px;
   }
 
   /* Todo list adjustments */
   .todo-card {
     width: 100%;
-    max-width: 590px;
+    max-width: 520px;
   }
 
   .todo-card h2 {
@@ -310,7 +306,11 @@
   .header-nav {
     width: 100%;
     justify-content: space-between;
-    padding: 0 10px;
+    display: flex;
+  }
+
+  .header-controls {
+    margin-left: 20px;
   }
 
   .header-brand h1 {
@@ -323,11 +323,6 @@
 
   .contact-text {
     display: none;
-  }
-
-  .contact-icon {
-    width: auto;
-    padding-right: 50px;
   }
 
   .spotify-sidebar {
@@ -362,7 +357,7 @@
   /* main */
   main {
     flex-direction: column;
-    padding: 25px;
+    padding: 30px;
     margin-top: 60px;
     width: 80%;
   }
@@ -395,16 +390,19 @@
   }
 
   .podomoro-header-buttons button,
-  .podomoro-footer button,
-  .custom-timer-input button,
+  .custom-timer-input button {
+    padding: 8px 15px;
+  }
+
   input#customMinutes {
-    padding: 8px 12px;
-    font-size: 0.8rem;
+    width: 70%;
+    padding: 7px 2px;
+    font-size: 0.7rem;
   }
 
   .podomoro-footer {
     padding: 8px 15px;
-    gap: 10px;
+    gap: 30px;
   }
 
   .task-input {
@@ -447,7 +445,6 @@
   }
   .header-brand h1 {
     font-size: 1rem;
-    padding: auto;
   }
 
   .header-quote {
@@ -460,7 +457,7 @@
 
   .contact-icon {
     width: auto;
-    margin-left: 80px;
+    margin-left: 10px;
   }
 
   .spotify-sidebar {
@@ -496,22 +493,22 @@
   main {
     flex-direction: column;
     padding: 10px;
-    margin-top: 50px;
+    margin-top: 65px;
     width: 80%;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 8px;
   }
 
   section {
     width: 100%;
     margin: 8px auto;
-    padding: 5px;
+    padding: 10px;
   }
 
   .todo-card {
     width: 100%;
     max-width: 320px;
     margin: 0 auto;
+    padding: 10px 5px;
   }
 
   #todo-list {
@@ -525,8 +522,9 @@
 
   .podomoro-card {
     width: 100%;
-    max-width: 320px;
+    max-width: 300px;
     margin: 0 auto;
+    padding: 10px 5px;
   }
 
   .podomoro-header h1 img {
@@ -534,18 +532,17 @@
   }
 
   .podomoro-header-buttons {
-    padding: 5px 5px;
+    padding: 10px 15px;
     font-size: 0.5rem;
   }
 
-  .podomoro-header-buttons button,
-  .podomoro-footer button {
-    padding: 6px 7px;
-    font-size: 0.6rem;
+  .podomoro-header-buttons button {
+    padding: 5px 6px;
+    font-size: 0.8rem;
   }
 
   input#customMinutes {
-    width: 80px;
+    width: 70px;
     padding: 4px 6px;
     font-size: 0.6rem;
     margin-right: 5px;
@@ -554,13 +551,13 @@
   .custom-timer-input {
     display: flex;
     align-items: center;
-    gap: 5px; /* Reduced gap */
-    margin-right: 10px; /* Added margin */
+    gap: 5px;
+    margin-right: 10px;
   }
 
   .podomoro-footer {
     padding: 10px 3px;
-    gap: 8px;
+    gap: 20px;
   }
 
   .todo-card {

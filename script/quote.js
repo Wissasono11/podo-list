@@ -36,7 +36,7 @@ const quotes = [
 function updateQuote() {
   const quoteText = document.getElementById("quote-text");
   const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-  quoteText.innerHTML = `${randomQuote.text}<span class="quote-author">- ${randomQuote.author}</span>`;
+  // quoteText.innerHTML = `${randomQuote.text}<span class="quote-author">- ${randomQuote.author}</span>`;
 }
 
 // Update quote every 10 seconds
