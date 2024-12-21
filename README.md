@@ -34,6 +34,8 @@
 ## 📸 Screenshot & Preview
 ### Fullview Web:
 ![image](https://github.com/user-attachments/assets/930fbffd-a80e-4e89-bdc0-cef319ae489c)
+![image](https://github.com/user-attachments/assets/bcd7459c-7eaf-4e66-b61b-18f98c48f671)
+
 
 - Laptop Device✅:
   
