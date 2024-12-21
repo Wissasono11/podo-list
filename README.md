@@ -82,12 +82,12 @@ git clone https://github.com/yourusername/podo-list.git
    - Buka menu Create App:
      ![image](https://github.com/user-attachments/assets/0c5ec8f1-f74d-4f8a-8fed-a0ad3c6f57ca)
    - Isi form app name, app desc, website, dll (example: (localhost/example.php), dan isi redirect URL yang sama juga).
-   - Simpan dan buka app yang sudah dibuat sebelumnya, kemudian pergi ke Settings:
+   - Simpan dan buka app yang sudah dibuat sebelumnya, kemudian pergi ke Settings dan copy Client ID dan Client Secret:
      ![Screenshot 2024-12-21 145953](https://github.com/user-attachments/assets/65e47552-f919-4c52-8d9c-fcb1ccdd5746)
-   - Di Spotify Developer Dashboard, copy Client ID dan Client Secret anda ke dalam api.js
+   - Masuk ke dalam file api.js dan ganti Client ID dan Client Secret dengan milik anda
      Noted (Jangan lupa untuk mengganti link redirect URL yang sebelumnya anda sudah buat di Spotify Developer Dashboard):
      ![Screenshot 2024-12-21 150344](https://github.com/user-attachments/assets/30d31860-0fde-4af0-8842-4121fc484772)
-   - Setelah memasukkan Client ID dan Secret anda dapat menuju, index.html dan mengganti struktur <iframe></iframe> dengan milik
+   - Selanjutnya anda dapat menuju index.html dan mengganti struktur <iframe></iframe> dengan milik
      anda sendiri:
      ![Screenshot 2024-12-21 200802](https://github.com/user-attachments/assets/f8abd7f6-1287-4bb2-a3b2-29b58ee99e8e)
    - Untuk mendapatkan baris kode tersebut anda dapat membuka playlist musik Spotify anda:
