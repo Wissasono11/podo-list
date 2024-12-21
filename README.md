@@ -42,7 +42,7 @@
   ![image](https://github.com/user-attachments/assets/a3b44d38-a81e-421b-80c8-a97a998dbf96)
 
 - Tablet Device✅
-  ![image](https://github.com/user-attachments/assets/5400462b-2500-4fbe-bf00-d504ee9f64e2)
+  ![image](https://github.com/user-attachments/assets/5400462b-2500-4fbe-bf00-d504ee9f64e2)'
   ![image](https://github.com/user-attachments/assets/fb244c87-84e8-4e97-8936-37d8b777af7b)
 
 - Mobile Device✅
