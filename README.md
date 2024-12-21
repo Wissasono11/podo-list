@@ -56,8 +56,9 @@ git clone https://github.com/yourusername/podo-list.git
    - Kunjungi Spotify Developer Dashboard
    - Login dengan akun Spotify Anda
      ![image](https://github.com/user-attachments/assets/95afcc6b-af59-4592-8624-d5321595f703)
-
-
+   - Create App:
+     ![image](https://github.com/user-attachments/assets/0c5ec8f1-f74d-4f8a-8fed-a0ad3c6f57ca)
+   - Isi form app name, app desc, website example: (localhost/example.php), dan isi redirect URL yang sama juga. 
 
 ## 📸 Screenshot & Preview
 
