@@ -13,7 +13,7 @@
 - **Todo List**
   - Tambah, edit, hapus tugas
   - Tandai tugas selesai
-  - Penyimpanan lokal (localStorage)
+  - Tugas tersimpan di penyimpanan lokal
   - Animasi smooth
   
 - **Integrasi Spotify**
