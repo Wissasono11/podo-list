@@ -94,5 +94,8 @@ git clone https://github.com/yourusername/podo-list.git
      - Centang Show Code
      ![image](https://github.com/user-attachments/assets/afb38dc2-9737-4276-9677-7a4ba86bc3b8)
 
+    🎉Selamat anda sudah bisa meintegrasikan website ini dengan playlist Spotify Anda!.
+    
+
 
       
