@@ -52,7 +52,6 @@
 - Playlist access
 - Playback controls
 
-![image](https://github.com/user-attachments/assets/16c800e3-e025-48a9-9e90-511fc5ec97fb)
 <br>
 ## 📥 Instalasi
 1. Clone Repository
