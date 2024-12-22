@@ -31,7 +31,7 @@
 - Vanilla JavaScript
 - Spotify Web API
   
-### Device SupportResponsive:
+### Device Support Responsive:
 - Mobile Device✅
 - Tablet Device✅
 - Laptop Device✅
