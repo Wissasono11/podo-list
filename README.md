@@ -52,7 +52,6 @@
 - Playlist access
 - Playback controls
 
-<br>
 ## 📥 Instalasi
 1. Clone Repository
 ```bash
