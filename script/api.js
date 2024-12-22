@@ -3,7 +3,7 @@ class SpotifyManager {
     this.config = {
       // Update with your exact Client ID (remove extra spaces)
       clientId: "8289af8c8c69478cb5a6c09fb490e904",
-      clientSecret: "",
+      clientSecret: "519b48d328e9465aa50f249387fe749c",
       // Match exact redirect URI from Spotify Dashboard
       redirectUri: "",
     };
