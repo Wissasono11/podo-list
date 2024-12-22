@@ -5,7 +5,7 @@ class SpotifyManager {
       clientId: "8289af8c8c69478cb5a6c09fb490e904",
       clientSecret: "519b48d328e9465aa50f249387fe749c",
       // Match exact redirect URI from Spotify Dashboard
-      redirectUri: "",
+      redirectUri: "http://127.0.0.1:5500/index.html",
     };
     this.accessToken = localStorage.getItem("spotify_access_token");
     this.scope =
