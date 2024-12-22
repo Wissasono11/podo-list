@@ -31,31 +31,29 @@
 - Vanilla JavaScript
 - Spotify Web API
   
-## 📸 Screenshot & Preview
-### Fullview Web
-- Device laptop:
-- 
+### Device Support Responsive:
+- Mobile Device✅
+- Tablet Device✅
+- Laptop Device✅
 
 ### Pomodoro Timer View
-![Pomodoro Timer](assets/screenshots/pomodoro-view.png)
 - Timer circular progress
 - Work/Break mode buttons
 - Custom time settings
 
 ### Todo List Interface
-![Todo List](assets/screenshots/todo-view.png)
 - Task management interface
 - Checkbox completion
+
 - Edit/Delete controls
 
 ### Spotify Integration
-![Spotify Player](assets/screenshots/spotify-view.png)
 - Embedded player
 - Playlist access
 - Playback controls
 
 ## 📥 Instalasi
-1. Clone repository
+1. Clone Repository
 ```bash
 git clone https://github.com/yourusername/podo-list.git
 ```
@@ -63,7 +61,7 @@ git clone https://github.com/yourusername/podo-list.git
 ```
 .urPlann/
 ├── index.html
-├── css/
+├── style/
 │   ├── main.css
 │   ├── podomoro.css
 │   ├── responsive.css
@@ -76,7 +74,7 @@ git clone https://github.com/yourusername/podo-list.git
 │   ├── sidebar.js
 │   ├── spotify-ui.js
 │   └── todolist.js
-└── assets/
+└── images/
 ```
 3. Setup Spotify API:
    - Kunjungi Spotify Developer Dashboard
@@ -101,6 +99,25 @@ git clone https://github.com/yourusername/podo-list.git
      - Centang Show Code
      ![image](https://github.com/user-attachments/assets/afb38dc2-9737-4276-9677-7a4ba86bc3b8)
    - 🎉Selamat anda sudah bisa meintegrasikan website ini dengan playlist Spotify Anda!.
+<br>
+
+## 📜 Copyright & License
+
+## Copyright Notice
+Copyright © 2024 PodoList All rights reserved.<br>
+Developed by:
+Bayu Wicaksono | AsepVanDjikstra (@Wissasono11)
+
+## MIT License
+MIT License
+
+Copyright (c) 2024 PodoList
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     
 
 
