@@ -61,7 +61,7 @@ git clone https://github.com/yourusername/podo-list.git
 ```
 .urPlann/
 ├── index.html
-├── css/
+├── style/
 │   ├── main.css
 │   ├── podomoro.css
 │   ├── responsive.css
@@ -74,7 +74,7 @@ git clone https://github.com/yourusername/podo-list.git
 │   ├── sidebar.js
 │   ├── spotify-ui.js
 │   └── todolist.js
-└── assets/
+└── images/
 ```
 3. Setup Spotify API:
    - Kunjungi Spotify Developer Dashboard
