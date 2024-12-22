@@ -31,10 +31,7 @@
 - Vanilla JavaScript
 - Spotify Web API
   
-## 📸 Screenshot & Preview
-### Fullview Web:
-
-### Other Device:
+### Device SupportResponsive:
 - Mobile Device✅
 - Tablet Device✅
 - Laptop Device✅
