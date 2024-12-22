@@ -33,38 +33,22 @@
   
 ## 📸 Screenshot & Preview
 ### Fullview Web:
-![image](https://github.com/user-attachments/assets/930fbffd-a80e-4e89-bdc0-cef319ae489c)
 
 ### Other Device:
 - Mobile Device✅
-
-  ![image](https://github.com/user-attachments/assets/6d1a515f-59c4-46f2-beef-5dd439eb521d)
-  
 - Tablet Device✅
-
-  ![image](https://github.com/user-attachments/assets/5400462b-2500-4fbe-bf00-d504ee9f64e2)
-  
 - Laptop Device✅
-
-  ![image](https://github.com/user-attachments/assets/fc50c24c-7e69-45bb-8937-1841af192a21)
-
 
 ### Pomodoro Timer View
 - Timer circular progress
 - Work/Break mode buttons
 - Custom time settings
 
-  ![image](https://github.com/user-attachments/assets/67a4f0f6-0ab7-4a90-b84f-e941afabaf33)
-
 ### Todo List Interface
 - Task management interface
 - Checkbox completion
 
-  ![image](https://github.com/user-attachments/assets/cf4d8528-0925-42dd-8d69-a925ffafe59f)
-
 - Edit/Delete controls
-
-  ![image](https://github.com/user-attachments/assets/36d51ca9-f954-4d5d-b124-63b18d2c592c)
 
 ### Spotify Integration
 - Embedded player
